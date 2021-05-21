@@ -2,5 +2,5 @@
 #Hello PG!
 
 <?php
-my name is Pri
+my name is PG
 ?>
